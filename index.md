@@ -1,7 +1,3 @@
----
-layout: cv
-title: Isaac Newtons's CV
----
 # Oliver Rivett-Carnac
 Senior Developer in Artificial Intelligence team at Derivco
 
