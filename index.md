@@ -6,14 +6,14 @@ Senior Developer in Artificial Intelligence team at Derivco
 
 ## Summary
 
-Experienced Senior Developer with 14+ years C# .NET Framework / .NET Core / .NET 5 development. Grateful and privileged to have had extensive experience with solutions and enterprise architects and been part of a solutions architecture team. 
+I am an experienced Senior Developer with 14+ years of C# .NET Framework / .NET Core / .NET 5 development experience. I have had the opportunity to work extensively with solutions and enterprise architects and been part of a solutions architecture team. 
 
-Worked as a developer or been the technical lead on strategic projects which required designing, implementing, and deploying large-scale systems.
+I have experience not only as a developer but also as a technical lead on strategic projects which required designing, implementing, and deploying large-scale systems.
 
-I have a deep interest and depth in finding technical solutions and a keen interest in systems architecture and design.
-My experience has given me extensive exposure to developing software within highly regulated industries and geographical markets, including GDPR and POPI. 
+I have a keen interest in systems architecture and design as well as finding the right technical solution for any given problem.
+My experience has given me extensive exposure to developing software within highly regulated industries and geographical markets, including handling complex regulatory requirements such as GDPR and POPI. 
 
-Currently working on designing and implementing a Machine Learning platform and required Lakehouse to allow teams to implement their own machine learning experiments and models.
+I am currently working on designing and implementing a Machine Learning platform and with a centralized Lakehouse to allow teams to implement their own machine learning experiments and models.
 
 ## Work Experience
 
@@ -26,12 +26,14 @@ The team aims to promote machine learning within the company by solving several 
 
 We are busy finalizing our production platform that will: handle the moving of data, manage ETL processes, address data governance and compliance requirements, but most importantly, allow the democratization of relevant business data for the rest of the organization to use in the development of their own machine learning algorithms and models.
 
+I am a core part of this team and have contributed significantly to the design and overall solution. I have also been instrumental in introducing Azure Infrastructure using a Terraform based deployment pipeline to the rest of the AI/ML team.
+
 Other notable achievements in my time at Derivco:
 
 #### HTTP/JSON API Re-architecture:
-I was the technical lead, with a colleague, on a project to redesign, implement and update the architecture of our core gaming system and supporting components.
+I was the technical lead, on a project to redesign, implement and rollout the architecture of our core gaming system and supporting components.
 The redesign goal was to move our systems from an old monolithic, stateful, custom TCP-based architecture to an HTTP/JSON, restful, API-based, microservice architecture.
-We successfully deployed the new architecture and decommissioned the legacy systems through a series of systematic deployments over a year.
+We successfully deployed the new architecture and decommissioned the legacy systems through a series of systematic deployments over the course of a year.
 Implementing the new architecture reduced the physical footprint and improved reliability, scalability and consolidated our integration endpoints into a single collection of easy to consume HTTP/JSON APIs.
 Throughout the project, we set new company standards for API development, implemented some core libraries, and championed Application Insights for application monitoring.
 
@@ -42,14 +44,16 @@ For example:
  Swagger / OpenAPI code generator for generating both C# client, model libraries, and HTML documentation for the APIs. 
  - Swagger / OpenAPI web front end for viewing organizations API documentation.
 
+These libraries are currently used buy hundreds of developers in many of our systems in production.
+
 #### Core Security and Configuration System:
-In a project when the company was introducing our first set of API's the organization required a way to secure calls between Services and APIs and a configuration system to manage service and database discovery.
+When the company was introducing our first set of HTTP/JSON API's the organization required a way to secure calls between Services and APIs and a configuration system to manage service and database discovery.
 I worked as a senior developer with the solutions architects to design and implement the core security and configuration systems that the organization uses extensively.
-These systems were critical to their dependent APIs and Services and so had to be "bulletproof" and offer what we eventually termed "ultra-high-availability."
-The organization has data centers around the globe. The system also had to handle replication of configuration across all our data centers.
+These systems are critical to their dependent APIs and Services and so had to be "bulletproof" and offer what we eventually termed "ultra-high-availability."
+The organization has data centers around the globe and this system had to handle replication of configuration across all our data centers.
 
 #### Statistics Monitoring:
-In one of my first large projects as a junior developer, I worked with the solution architects to build a system to monitor our games' internal financial performance statistics. I was responsible for developing a web front end for our Maths and Game Design teams to monitor to catch any abnormal player behavior. The system is still currently used today.
+In one of my first large projects as a junior developer, I worked with the solution architects to build a system to monitor our games' internal financial performance statistics. I was responsible for developing a web front end for our Maths and Game Design teams to monitor for any abnormal player behavior. The system is still currently used today.
 
 ### Part-Time Developer - WithThem
 July 2007 – December 2007
@@ -64,9 +68,9 @@ Graduation: 2009 - Cum Laude
 
 ## Interests
 
-I am a bit of a car nut. I have always loved cars with an affinity to the Japanese domestic market, although I like all things performance vehicles. Currently, I am the proud owner of a modified 2012 Evo X.
+I am a car nut. I have always loved cars with an affinity to the Japanese domestic market, although I like all things performance vehicles. Currently, I am the proud owner of a modified 2012 Evo X.
 
-Naturally, computers have always been of significant interest, and I enjoy PC + Console gaming, movies, and series. 
-All things tech make up a considerable part of my interests. From audiophile sound systems to networking, home theater setups to server builds, lighting setups, smart-home gear, if it's technology-based, I am probably interested. Like they say, "all my vices are devices."
+Computers have always been of significant interest and I enjoy PC + Console gaming, movies, and series. 
+All things tech make up a considerable part of my interests. From audiophile sound systems to networking, home theater setups, server builds, lighting setups, smart-home gear, if it's technology-based, I am probably interested. Like they say, "all my vices are devices."
 
 Outside of tech and cars, family life is essential to me, and I adore my partner and young daughter.
