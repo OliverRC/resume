@@ -74,3 +74,30 @@ Computers have always been of significant interest and I enjoy PC + Console gami
 All things tech make up a considerable part of my interests. From audiophile sound systems to networking, home theater setups, server builds, lighting setups, smart-home gear, if it's technology-based, I am probably interested. Like they say, "all my vices are devices."
 
 Outside of tech and cars, family life is essential to me, and I adore my partner and young daughter.
+
+## Skills
+
+### Soft Skills
+
+* Analytical thinking
+* Problem solving
+* Tackling complex problems
+* Critical thinking
+* Work well as part of a team
+* Public speaking and presenting to a varied audience
+* Keeping a holistic perspective and business goals in mind.
+
+### Technical Skills
+
+* 14+ years C# and .NET Framework / .NET Core / .NET 5 experience
+    * largely developed in Visual Studio and Visual Studio Code
+    * experience with Resharper and other Jetbrains tools
+* Azure
+* Azure Databricks
+    * Recent exposure to Spark, Python, Scala within Databricks
+* DevOps using Azure DevOps, GitLab, TeamCity
+* Microsoft SQL Server - TSQL
+* Infrastructure as Code using Terraform
+* Monitoring using Application Insights, Grafana, Kibana
+* Docker and Kubernetes
+* Predominantly Windows experience, but able to work with Linux systems
